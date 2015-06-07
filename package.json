@@ -1,0 +1,26 @@
+{
+  "name": "webpack-sass-example",
+  "version": "0.1.0",
+  "description": "Webpack sass example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/towry/webpack-sass-example"
+  },
+  "keywords": [
+    "webpack",
+    "sass"
+  ],
+  "author": "Towry Wang",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.14.4",
+    "node-sass": "^3.1.2",
+    "sass-loader": "^1.0.2",
+    "style-loader": "^0.12.3",
+    "extract-text-webpack-plugin": "^0.8.1"
+  }
+}
